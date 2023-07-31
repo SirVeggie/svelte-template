@@ -10,3 +10,7 @@
 </svelte:head>
 
 <slot />
+
+<style lang="scss">
+    
+</style>

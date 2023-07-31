@@ -10,4 +10,13 @@ html {
     background-color: #242424;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+
+    --main-padding: 2em;
+}
+
+body {
+    min-height: 100dvh;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
