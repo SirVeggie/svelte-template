@@ -1,0 +1,9 @@
+{
+  "name": "Svelte Template",
+  "short_name": "Svelte Template",
+  "icons": [],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#242424",
+  "theme_color": "#242424"
+}
