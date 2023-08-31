@@ -7,6 +7,7 @@
 <svelte:head>
     <title>Svelte Template</title>
     <link rel="manifest" href={`${assets}/manifest.json`} />
+    <link rel="icon" href={`${assets}/favicon.png`} />
 </svelte:head>
 
 <slot />
